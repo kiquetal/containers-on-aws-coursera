@@ -14,8 +14,10 @@ and system libraries into an executable.
 
 #### Basic docker commands
 
-- docker demon
+- docker daemon: On host machine, manage the containers and perfom whatever the client requires.
 
-- docker image
+- docker client: Perfoms commands build,stop,etc 
 
-- registry docker  	
+- registry docker : Store docker images
+
+
